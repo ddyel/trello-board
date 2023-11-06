@@ -23,17 +23,17 @@ const columns = ref<Column[]>([
             {
                 id: nanoid(),
                 title: 'Create marking landing page',
-                createAt: new Date(),
+                createdAt: new Date(),
             },
             {
                 id: nanoid(),
                 title: 'Develop cool new feature',
-                createAt: new Date(),
+                createdAt: new Date(),
             },
             {
                 id: nanoid(),
                 title: 'Fix page nav bug',
-                createAt: new Date(),
+                createdAt: new Date(),
             }
         ]
         
